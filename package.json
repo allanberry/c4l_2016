@@ -4,13 +4,17 @@
   "description": "Code4Lib Chicago Data Visualization Workshop 23 May 2016",
   "main": "app.js",
   "scripts": {
-    "preinstall": "npm install -g nodemon"
+    "preinstall": "npm install -g nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "d3": "^3.5.17",
     "express": "^4.13.4"
+  },
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/allanberry/c4l_2016.git"
   }
 }
