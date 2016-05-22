@@ -1,0 +1,15 @@
+{
+  "name": "c4l_app",
+  "version": "1.0.0",
+  "description": "Code4Lib Chicago Data Visualization Workshop 23 May 2016",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "express": "^4.13.4"
+  }
+}
