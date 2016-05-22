@@ -4,6 +4,7 @@
   "description": "Code4Lib Chicago Data Visualization Workshop 23 May 2016",
   "main": "app.js",
   "scripts": {
+    "preinstall": "npm install -g nodemon"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,8 +12,5 @@
   "dependencies": {
     "d3": "^3.5.17",
     "express": "^4.13.4"
-  },
-  "devDependencies": {
-    "nodemon": "^1.9.2"
   }
 }
